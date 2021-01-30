@@ -5,7 +5,7 @@ import org.telegram.telegrambots.api.objects.Update;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.exceptions.TelegramApiException;
 
-public class Bot extends TelegramLongPollingBot {
+public class BotDanil extends TelegramLongPollingBot {
 
     /**
      * Метод для приема сообщений.
@@ -35,7 +35,7 @@ public class Bot extends TelegramLongPollingBot {
      */
     @Override
     public String getBotUsername() {
-        return "myvoicetotextbot ";
+        return "KurchanovEnglishBot ";
     }
 
     /**
@@ -44,6 +44,6 @@ public class Bot extends TelegramLongPollingBot {
      */
     @Override
     public String getBotToken() {
-        return "1459095537:AAHyUu77QTJnpcoYyiL080GPaOrfTBMMHws";
+        return "1697825241:AAHV2Kn8aSQ53sLHyOGQfMLj-hB_xGas97Y";
     }
 }
