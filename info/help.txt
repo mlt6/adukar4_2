@@ -4,3 +4,6 @@
 - Установить Git https://git-scm.com/download/win
 
 - Сделать свою папку и создать там класс.
+
+
+https://tlgrm.ru/docs/bots - про ботов
