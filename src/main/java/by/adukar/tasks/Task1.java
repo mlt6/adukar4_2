@@ -1,6 +1,9 @@
 package by.adukar.tasks;
 
 public class Task1 {
+
+    //Сумма четных положительных элементов массива
+
     public static void main(String[] args) {
         int[] arr = new int[] {1,2,3,4,5,6,7,8,9,0,1,2,3,4,5};
 

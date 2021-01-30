@@ -2,7 +2,7 @@ package by.adukar;
 
 public class Application {
     public static void main(String[] args) {
-        //System.out.println("Hello world");
+        //Заполнить степенями тройки
 
         int num = 2;
         int s = 2;
