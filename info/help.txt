@@ -1,9 +1,0 @@
-Что нужно сделать:
-- Установить Intelji IDEA 2020  https://www.jetbrains.com/idea/download/#section=windows
-- Установить JDK 15  https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html
-- Установить Git https://git-scm.com/download/win
-
-- Сделать свою папку и создать там класс.
-
-
-https://tlgrm.ru/docs/bots - про ботов
