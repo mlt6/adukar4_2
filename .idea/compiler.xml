@@ -9,8 +9,5 @@
         <module name="telegarmBotAdukar" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="telegarmBotAdukar" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
